@@ -10,7 +10,7 @@ Welcome to the Unreal Engine ParkourGuy Project repository. This repository cont
 - Each release represents the state of the project at the end of the corresponding lesson.
 
 > [!TIP]
-> For example, if you're about to start the "5. Bumper" lesson, you should download the project from the #previous# lesson ("4. Checkpoints & Respawn") to match the starting state shown in the video.
+> For example, if you're about to start the "5. Bumper" lesson, you should download the project from the **previous lesson** ("4. Checkpoints & Respawn") to match the **starting state** shown in the video.
 
 
 ### Section 2
