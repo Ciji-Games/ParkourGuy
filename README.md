@@ -1,8 +1,33 @@
-# ParkourGuy Project
+<br>
+
+<div align = center>
+
+# Parkour Guy Project
+
+[![Badge help]][help]   
+[![Badge Website]][Website]   
+
+<br>
+
+
+<!---------------------------------------------------------------------------->
+
+[help]: https://discord.gg/jx8eXXqh2m
+[Website]: https://www.cijigames.com/
+
+
+<!---------------------------------[ Badges ]---------------------------------->
+
+[Badge help]: https://img.shields.io/badge/discord-get_help-blue?style=for-the-badge&logo=discord&logoColor=white
+[Badge Website]: https://img.shields.io/badge/CijiGames.com-8A2BE2?style=for-the-badge
+
+
 
 ![thumbnail](https://github.com/Ciji-Games/ParkourGuy/blob/main/ParkourGuy/T_Launcher.png?raw=true)
 
 Welcome to the Unreal Engine ParkourGuy Project repository. This repository contains Unreal Engine projects and exercises designed for educational purposes.
+
+</div><br>
 
 ## Releases
 
@@ -54,7 +79,7 @@ Welcome to the Unreal Engine ParkourGuy Project repository. This repository cont
 
 
 ## How to Use
-
+[![Badge help]][help]   
 1. Navigate to the desired release by clicking the corresponding link.
 2. Download the project files from the release page. (.zip)
 3. Unzip and open the .uproject and explore!
